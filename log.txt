@@ -1,0 +1,40 @@
+
+{
+  "events": [
+    {
+      "replyToken": "00000000000000000000000000000000",
+      "type": "message",
+      "timestamp": 1579661802744,
+      "source": {
+        "type": "user",
+        "userId": "Udeadbeefdeadbeefdeadbeefdeadbeef"
+      },
+      "message": {
+        "id": "100001",
+        "type": "text",
+        "text": "Hello, world"
+      }
+    },
+    {
+      "replyToken": "ffffffffffffffffffffffffffffffff",
+      "type": "message",
+      "timestamp": 1579661802744,
+      "source": {
+        "type": "user",
+        "userId": "Udeadbeefdeadbeefdeadbeefdeadbeef"
+      },
+      "message": {
+        "id": "100002",
+        "type": "sticker",
+        "packageId": "1",
+        "stickerId": "1"
+      }
+    }
+  ]
+}
+
+{"events":[{"type":"message","replyToken":"c5faeb7fd09b4157a9ecf9818fdf28d5","source":{"userId":"U6d99bf94ab7ab5deecc76939bf106b5f","type":"user"},"timestamp":1579661868189,"mode":"active","message":{"type":"text","id":"11298370410924","text":"bb"}}],"destination":"Ue7a0a2a637ef3eae5ef1e990bccce37a"}
+{"events":[{"type":"message","replyToken":"9fc1cdd6ef024ce2b1042dc10f8b7da7","source":{"userId":"U6d99bf94ab7ab5deecc76939bf106b5f","type":"user"},"timestamp":1579661925286,"mode":"active","message":{"type":"text","id":"11298374280671","text":"ghgfhf"}}],"destination":"Ue7a0a2a637ef3eae5ef1e990bccce37a"}
+
+
+Array
